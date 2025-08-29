@@ -1,6 +1,10 @@
 # BFH Qualifier 1 – Java (Spring Boot)
 
 ## Build & Run
+```
+mvn clean package
+java -jar target/bfh-qualifier1-java-0.0.1-SNAPSHOT.jar
+```
 
 ## My Details
 Configured in `src/main/resources/application.properties`:
